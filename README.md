@@ -1,7 +1,7 @@
 - 👋 Hola soy Axel Alemán, un Analista de Datos con experiencia en empresas de consultoría realizando proyectos en SQL Server Integración Services, Power BI, PowerQuery, DAX, Soporte a un modelo previamente implementado en R, creación de Scripts ETL usando Python y SQL
 - 👀 Estoy interesado en Ingeniería de Datos
 - 🌱 Actualmente cuento con las certificaciones Microsoft DP-100 y PL-300
-- 📫 Sigueme en LinkedIn: https://www.linkedin.com/in/axel-aleman-91a26565/
+- 📫 Sigueme en LinkedIn: https://www.linkedin.com/in/axel-aleman-91a26565/ para mas información sobre mis proyectos
 
 ### Portafolio
 
