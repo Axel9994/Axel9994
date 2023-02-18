@@ -16,6 +16,7 @@
 9. Uso del Orquestrador Apache Airflow para la creacion de un DataMart mediante comandos T-SQL hacia la Base de Datos AdventureWorks2019 y de PowerBI para crear el informe que consume el DataMart: https://github.com/Axel9994/Airflow-Custom-DW-Adventure-Works-SQL-Server
 10. Uso de HyperDrive para optimizar un modelo de arboles de regresión de gradiente descendiente: https://github.com/Axel9994/Prediccion-Notas-Hyperdrive
 11. Uso de Azure AutoML para implementar clasificacion multiple: https://github.com/Axel9994/Azure-AutoML-Wine-Classification
+12. Uso de Azure AutoML para predecir Churn: https://github.com/Axel9994/Telecom-Churn-Azure-Auto-ML
 
 <!---
 Axel9994/Axel9994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
