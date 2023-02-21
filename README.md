@@ -18,6 +18,9 @@
 11. Uso de Azure AutoML para implementar clasificacion multiple: https://github.com/Axel9994/Azure-AutoML-Wine-Classification
 12. Uso de Azure AutoML para predecir Churn: https://github.com/Axel9994/Telecom-Churn-Azure-Auto-ML
 13. Template Flask + Vue Dockerizado: https://github.com/Axel9994/Flask-Vue-Minimal-Template
+14. Segmentación de Clientes de Tarjeta de Crédito: https://github.com/Axel9994/Segmentacion-Clientes-Tarjeta-de-Credito
+15. App de Segmentación de Clientes de Tarjeta de Crédito: https://github.com/Axel9994/App-Segmentacion-Clientes-Tarjeta-de-Credito
+
 
 <!---
 Axel9994/Axel9994 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
