@@ -1,7 +1,7 @@
 - 👋 Hola soy Axel Alemán, un Analista de Datos con experiencia en empresas de consultoría realizando proyectos en SQL Server Integración Services, Power BI, PowerQuery, DAX, Soporte a un modelo previamente implementado en R, creación de Scripts ETL usando Python y SQL
 - También he usado Google BigQuery, Google Dataproc, Google Cloud Composer, Azure Databricks, Azure Data Factory, Azure Event Hubs, Azure Stream Analytics y Azure Synapse para pruebas de concepto en mi entrenamiento personal fuera de mi ámbito laboral
 - 👀 Estoy interesado en Conseguir empleo como Ingeniero de Datos Jr.
-- 🌱 Actualmente cuento con las certificaciones Microsoft DP-100 y PL-300, DP 203
+- 🌱 Actualmente cuento con las certificaciones Microsoft PL-300 y DP 203
 - 📫 Sigueme en LinkedIn: https://www.linkedin.com/in/axel-aleman-91a26565/ para mas información
 
 ### Portafolio
@@ -26,6 +26,7 @@
 18. Prueba de Pipeline en Azure Data Factory que se ejecuta al subir un archivo a un contenedor Azure Data Lake Gen 2 mediante un Disparador Azure Event Grid: https://github.com/Axel9994/AzureDF_EG_Test_for_Bakery_DW
 19. Prueba de Proceso de datos Streaming en Azure Databricks: https://github.com/Axel9994/Prueba-Event-Hub-con-Azure-Databricks
 20. Prueba de Carga de Datos Externos a un pool bajo demanda de Azure Synapse y construcción de un pequeño almacen de datos: https://github.com/Axel9994/Prueba_synapse_bakery_dw
+21. Prueba de Carga de Event Hubs a Delta Live Tables en Azure Databricks, simulando una tienda: https://github.com/Axel9994/Prueba-Delta-Live-Tables-con-Simulador-de-Tienda
 
 
 <!---
