@@ -27,6 +27,7 @@
 19. Prueba de Proceso de datos Streaming en Azure Databricks: https://github.com/Axel9994/Prueba-Event-Hub-con-Azure-Databricks
 20. Prueba de Carga de Datos Externos a un pool bajo demanda de Azure Synapse y construcción de un pequeño almacen de datos: https://github.com/Axel9994/Prueba_synapse_bakery_dw
 21. Prueba de Carga de Event Hubs a Delta Live Tables en Azure Databricks, simulando una tienda: https://github.com/Axel9994/Prueba-Delta-Live-Tables-con-Simulador-de-Tienda
+22. Análisis de Chicago Taxi Trips 2016: Use Azure Databricks, Azure Data Factory, Azure SQL y Power BI para el análisis del conjunto de Datos Chicago Taxi Trips 2016: https://github.com/Axel9994/Chicago-Taxi-Trips-2016-Analysis
 
 
 <!---
